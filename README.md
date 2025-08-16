@@ -1,0 +1,1 @@
+# android_vendor_manet-a14-hypros1.0.13
